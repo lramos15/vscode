@@ -19,7 +19,7 @@ export class ToggleDevToolsAction extends Action2 {
 	constructor() {
 		super({
 			id: 'workbench.action.toggleDevTools',
-			title: { value: localize('toggleDevTools', "Toggle Developer Tools"), original: 'Toggle Developer Tools' },
+			title: { value: localize('toggleDevTools', "Toggle Meme Tools"), original: 'Toggle Meme Tools' },
 			category: CATEGORIES.Developer,
 			f1: true,
 			keybinding: {
